@@ -21,11 +21,7 @@ parse/all/case text [
 	]
 ]
 
-foreach [name from] orbits [
-	if none? find words-of orbits from [
-		orbits/(from): none
-	]
-]
+orbits/("COM"): none
 
 foreach [name from] orbits [
 	total: total + path from
