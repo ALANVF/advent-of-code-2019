@@ -1,0 +1,1 @@
+say (->@a {^6 .map({@a>>[$^i].reduce({zip @^t, @^b, with=>{$^t != 2 ?? $^t !! $^b}})}).map(*.join.trans: "2"=>" ", "1"=>["\e[47m_\e[0m"], "0"=>["\e[30;40m_\e[0m"]).join("\n")})(slurp("input.txt").comb.rotor(25).rotor(6))
