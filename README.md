@@ -5,3 +5,4 @@ Languages used so far:
 - Day 4: Tcl
 - Day 6: Rebol
 - Day 8: Raku
+- Day 22: Rebol
