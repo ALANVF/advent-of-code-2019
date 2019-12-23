@@ -6,4 +6,4 @@ Languages used so far:
 - Day 6: Rebol
 - Day 8: Raku
 - Day 16: 1) Pascal, F#, Raku. 2) Pascal
-- Day 22: Rebol
+- Day 22: 1) Rebol
