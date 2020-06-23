@@ -1,7 +1,7 @@
 Languages used so far:
 - Day 1: Raku, J
 - Day 2: 1) Raku. 2) Crystal
-- Day 3: 1) Pascal
+- Day 3: 1) Pascal, J
 - Day 4: Tcl
 - Day 6: Rebol
 - Day 8: Raku
